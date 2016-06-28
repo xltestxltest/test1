@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>［ipa文件下载地址］</string>
+            <string>http://10.20.10.18/XLDDZiOS.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -19,7 +19,7 @@
             <key>needs-shine</key>
             <false/>
             <key>url</key>
-            <string>[Icon地址]</string>
+            <string>http://10.20.10.18/Icon-1024.jpg</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -27,7 +27,7 @@
             <key>needs-shine</key>
             <false/>
             <key>url</key>
-            <string>[Icon地址]</string>
+            <string>http://10.20.10.18/Icon-1024.jpg</string>
           </dict>
         </array>
         <key>metadata</key>
@@ -35,13 +35,13 @@
           <key>bundle-identifier</key>
           <string>[BundleID]</string>
           <key>bundle-version</key>
-          <string>[Bundle版本]</string>
+          <string>1.7.3</string>
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
           <string></string>
           <key>title</key>
-          <string>[应用程序名]</string>
+          <string>星罗斗地主</string>
         </dict>
       </dict>
     </array>
